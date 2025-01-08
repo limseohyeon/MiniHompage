@@ -16,3 +16,6 @@ about.md 추가
 
 ## 장바구니 추가
 cart.md 추가
+
+## 피드백 추가
+feedback.md 추가
