@@ -8,3 +8,6 @@ B형
 navigation.md 추가
 
 ## 시스템 소개 추가
+
+## 구매 추가
+buy.md 추가
