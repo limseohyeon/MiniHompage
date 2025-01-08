@@ -8,3 +8,6 @@ B형
 navigation.md 추가
 
 ## 시스템 소개 추가
+
+## 피드백 추가
+feedback.md 추가
