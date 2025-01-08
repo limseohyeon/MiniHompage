@@ -8,3 +8,7 @@ B형
 navigation.md 추가
 
 ## 시스템 소개 추가
+about.md 추가
+
+## 장바구니 추가
+cart.md 추가
